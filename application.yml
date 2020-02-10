@@ -1,0 +1,5 @@
+project_name:
+  title: Project Name
+  badge: https://circleci.com/gh/CompanyName/project.svg?style=svg&circle-token=[TOKEN]
+  url: https://github.com/Company/reponame
+
