@@ -2,7 +2,7 @@
 
 Simple service to notify when CircleCI projects build workflows get failed status.
 
-!![https://raw.githubusercontent.com/dvinciguerra/circleci-status/master/circleci-status.png](https://raw.githubusercontent.com/dvinciguerra/circleci-status/master/circleci-status.png)
+![https://raw.githubusercontent.com/dvinciguerra/circleci-status/master/circleci-status.png](https://raw.githubusercontent.com/dvinciguerra/circleci-status/master/circleci-status.png)
 
 ### Configuration
 
