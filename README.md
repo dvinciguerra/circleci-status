@@ -1,5 +1,8 @@
 ## CircleCI Status
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/4b715f2fd4719d44e69f/maintainability)](https://codeclimate.com/github/dvinciguerra/circleci-status/maintainability)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 Simple service to notify when CircleCI projects build workflows get failed status.
 
 ![https://raw.githubusercontent.com/dvinciguerra/circleci-status/master/circleci-status.png](https://raw.githubusercontent.com/dvinciguerra/circleci-status/master/circleci-status.png)
